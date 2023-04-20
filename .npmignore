@@ -1,0 +1,9 @@
+example/
+.travis.yml
+.flowconfig
+.babelrc
+.gitignore
+.vscode
+.idea
+*.spec.js
+src/
